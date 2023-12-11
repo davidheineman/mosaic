@@ -133,7 +133,6 @@ class PhotoMosaic:
         """Save image to a folder"""
         folderName = "out"
         previous_path = os.getcwd()
-        os.chdir('../')
         if not os.path.exists(folderName):
             os.mkdir(folderName)
         os.chdir(folderName)

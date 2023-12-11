@@ -9,3 +9,7 @@ pip install -r requirements.txt
 python src/cifar.py cifar10 img
 python src/run.py image_path img/dog --baseWidth 10000 --step 32
 ```
+
+**Example:**
+
+![mosaic](example.png)
