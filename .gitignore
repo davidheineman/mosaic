@@ -1,0 +1,4 @@
+img/*
+out/*
+__pycache__/*
+**/__pycache__
